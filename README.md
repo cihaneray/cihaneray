@@ -14,6 +14,9 @@
   <a href="https://www.github.com/profile/cihaneray">
     <img src="https://img.shields.io/badge/github-0A0A0A?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.wix.com">
+    <img src="https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&style=for-the-badge" />
+  </a>
 </div>
 
 <!-- Visitor Counter -->
