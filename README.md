@@ -6,16 +6,16 @@
 <!-- Social Links with Icons -->
 <div align="center">
   <a href="https://linkedin.com/in/cihaneraybozkurt">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
   </a>
   <a href="https://www.hackerrank.com/profile/cihaneray">
-    <img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank" />
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
   <a href="https://www.github.com/profile/cihaneray">
-    <img src="https://img.shields.io/badge/github-0A0A0A?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.wix.com">
-    <img src="https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />
   </a>
 </div>
 
