@@ -64,6 +64,7 @@
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=cihaneray&theme=nightowl" />
       </a>
     </td>
+    
   </tr>
 </table>
 </div>
