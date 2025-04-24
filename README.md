@@ -14,7 +14,7 @@
   <a href="https://www.github.com/profile/cihaneray">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a /*href="https://www.wix.com" */>
+  <a href="https://bozkurtcihaneray.wixsite.com/my-portfolio" >
     <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />
   </a>
 </div>
