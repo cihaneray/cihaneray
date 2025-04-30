@@ -1,23 +1,24 @@
 <!-- Header Section with Animated Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+CihanEray;Cyber+Security;Internet+of+Things;Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+CihanEray;Cyber+Security+Engineer;IoT+Developer;Researcher" alt="Typing SVG" />
 </div>
 
 <!-- Social Links with Icons -->
 <div align="center">
-  <a href="https://linkedin.com/in/cihaneraybozkurt">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
+  <a href="https://linkedin.com/in/cihaneraybozkurt" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-  <a href="https://www.hackerrank.com/profile/cihaneray">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  <a href="https://www.hackerrank.com/profile/cihaneray" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Profile" />
   </a>
-  <a href="https://www.github.com/profile/cihaneray">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/cihaneray" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <a href="https://bozkurtcihaneray.wixsite.com/my-portfolio" >
-    <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />
+  <a href="https://bozkurtcihaneray.wixsite.com/my-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Portfolio" />
   </a>
 </div>
+
 
 <!-- Visitor Counter -->
 <div align="center">
@@ -26,45 +27,27 @@
 
 ---
 
-<!-- About Me Section with Animated GIF -->
-<div align="center">
-
-<h3>⚡ About Me</h3>
-<h3>I am sharing my projects on github. <br>
-    I'm trying to improve myself in Cyber Security, IoT, and Big Data.</h3>
-  
-</div>
-    <p align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2YyYmI0bnM2MTZkY2VyaTM0MGttMmJiNGh6MjZha2EwdG8zdDE4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KGp5qmTCmTDDgbHcl1/giphy.gif" width="300"/>
-    </p>
+## 🧠 Who am I?
+As a passionate individual in the technology landscape, I am deeply interested in **Cyber Security**, the **Internet of Things (IoT)**, and **Big Data**. My focus lies in exploring these domains through hands-on projects and continuous learning. I am committed to enhancing my technical skills and sharing my development journey via GitHub.
 
 ---
 
-<!-- Tech Stack Section with Animated Icons -->
-<h3 align="center">🛠 Tech Stack</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,rust,java,aws,docker,kubernetes,postgres,mysql,sqlite,git,linux,bash,dynamodb,flask,unity&perline=9" />
-</p>
+## 🛠 Skills & Technologies <div align="center">
+  <p>Here are some of the key technologies and tools I work with:</p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,rust,java,aws,docker,kubernetes,postgres,mysql,sqlite,git,linux,bash,dynamodb,flask,unity&perline=9" alt="My Skills" />
+</div>
 
 ---
 
 <!-- GitHub Stats Section -->
-<h3 align="center">📈 Coding Activity</h3>
+## 📈 GitHub Statistics
 
 <div align="center">
-<table style="border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 0;">
-      <a href="https://github.com/cihaneray">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=cihaneray&show_icons=true&theme=nightowl" />
-      </a>
-    </td>
-    <td align="center" style="padding: 0;">
-      <a href="https://github.com/cihaneray">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=cihaneray&theme=nightowl" />
-      </a>
-    </td>
-    
-  </tr>
-</table>
+  <a href="https://github.com/cihaneray">
+    <img src="https://github-readme-stats.vercel.app/api?username=cihaneray&show_icons=true&theme=nightowl&hide_border=true" width="49%" height="220px" alt="Cihan Eray's GitHub Stats" />
+  </a>
+  &nbsp
+  <a href="https://github.com/cihaneray">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cihaneray&theme=nightowl&hide_border=true" width="49%" height="220px" alt="Cihan Eray's GitHub Streak" />
+  </a>
 </div>
