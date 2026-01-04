@@ -26,19 +26,19 @@
 </div>
 
 
-## 🧠 Who am I?
+## Who am I?
 As a passionate individual in the technology landscape, I am deeply interested in **Cyber Security**, the **Internet of Things (IoT)**, **Statistics**, **Data Analyst**, and **Game Development**. My focus lies in exploring these domains through hands-on projects and continuous learning. I am committed to enhancing my technical skills and sharing my development journey via GitHub.
 
 
 
-## 🛠 Skills & Technologies <div align="center">
+## Skills & Technologies <div align="center">
   <p>Here are some of the key technologies and tools I work with:</p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,rust,java,aws,docker,kubernetes,postgres,mysql,sqlite,git,linux,bash,dynamodb,flask,unity&perline=9" alt="My Skills" />
 </div>
 
 
 <!-- GitHub Stats Section -->
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/cihaneray">
