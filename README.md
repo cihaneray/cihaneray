@@ -35,17 +35,3 @@ As a passionate individual in the technology landscape, I am deeply interested i
   <p>Here are some of the key technologies and tools I work with:</p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,rust,java,aws,docker,kubernetes,postgres,mysql,sqlite,git,linux,bash,dynamodb,flask,unity&perline=9" alt="My Skills" />
 </div>
-
-
-<!-- GitHub Stats Section -->
-## GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/cihaneray">
-    <img src="https://github-readme-stats.vercel.app/api?username=cihaneray&show_icons=true&theme=nightowl&hide_border=true" width="49%" height="220px" alt="Cihan Eray's GitHub Stats" />
-  </a>
-  &nbsp
-  <a href="https://github.com/cihaneray">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=cihaneray&theme=nightowl&hide_border=true" width="49%" height="220px" alt="Cihan Eray's GitHub Streak" />
-  </a>
-</div>
