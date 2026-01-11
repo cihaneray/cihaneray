@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+CihanEray;Cyber+Security+Engineer;Software+Engineer;IoT+Developer;Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=This+is+Cihan+Eray;Software+Engineer;Researcher" alt="Typing SVG" />
 </div>
 
 <!-- Social Links with Icons -->
@@ -13,9 +13,6 @@
   </a>
   <a href="https://github.com/cihaneray" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="https://bozkurtcihaneray.wixsite.com/my-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Portfolio" />
   </a>
 </div>
 
