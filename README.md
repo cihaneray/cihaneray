@@ -16,12 +16,6 @@
   </a>
 </div>
 
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cihaneray&label=Profile+Views&color=blueviolet&style=flat" alt="visitor counter"/>
-</div>
-
-
-## Who am I?
+<!-- About Me Section -->
+## About Me
 As a passionate individual in the technology landscape, I am deeply interested in **Cyber Security**, the **Internet of Things (IoT)**, **Statistics**, **Data Analyst**, and **Game Development**. My focus lies in exploring these domains through hands-on projects and continuous learning. I am committed to enhancing my technical skills and sharing my development journey via GitHub.
