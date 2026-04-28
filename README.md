@@ -18,4 +18,4 @@
 
 <!-- About Me Section -->
 ## About Me
-As a passionate individual in the technology landscape, I am deeply interested in **Cyber Security**, the **Internet of Things (IoT)**, **Statistics**, **Data Analyst**, and **Game Development**. My focus lies in exploring these domains through hands-on projects and continuous learning. I am committed to enhancing my technical skills and sharing my development journey via GitHub.
+As a passionate individual in the technology landscape, I am deeply interested in **Cyber Security**, **Artificial Intelligence**, and **Game Development**. My focus lies in exploring these domains through hands-on projects and continuous learning. I am committed to enhancing my technical skills and sharing my development journey via GitHub.
