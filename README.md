@@ -60,21 +60,17 @@ Software Engineer specializing in Artificial Intelligence, Backend Engineering, 
 
 ---
 
-## HackerRank & Metrics
+## Metrics
+
 
 <div align="center">
-  <a href="https://www.hackerrank.com/profile/cihaneray" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile_Metrics-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cihaneray&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cihaneray&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihaneray&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cihaneray&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cihaneray&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+
